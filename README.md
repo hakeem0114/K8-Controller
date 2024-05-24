@@ -85,8 +85,8 @@ Kubernetes controller that reconciles a ClusterScan custom resource.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![K8 System Design](src/assets/Kubernetes_Controller_System_Design.png)
 
-[![Product Name Screen Shot][product-screenshot]](src\assets\Kubernetes Controller System Design.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
